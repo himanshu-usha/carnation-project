@@ -1,0 +1,1 @@
+export const UPDATE_SECTION = 'section/UPDATE_SECTION'
