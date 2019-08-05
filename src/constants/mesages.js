@@ -8,4 +8,16 @@ export const MESSAGES = {
       RESEND_SUCCESS: 'Resend was successfully completed',
     },
   }
+
+  export const TITLES = {
+    MENU: {
+      ABOUT:'About',
+      COMMUNITY:'Community',
+      CONTACT: 'Contact',
+      RECIPES : 'Recipes',
+      OUR_MENU: 'Our Menu',
+      LOCATION: 'Location',
+      HOME: 'Home'
+    }
+  }
   
